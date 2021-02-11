@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/ModelFolder1/MFOL_ModelFolder1.xml"/>
+      <param value="/Work Repository/Projects/Demo/PROJ_Demo.xml"/>
+      <param value="/Work Repository/Models/ModelFolder1/Model1/MOD_Model1.xml"/>
+      <param value="/Work Repository/Projects/Demo/SampleApp/Packages/PACK_Package1.xml"/>
+      <param value="/Work Repository/Projects/Demo/SampleApp/FOLD_SampleApp.xml"/>
+      <param value="/Work Repository/Projects/Demo/SampleApp/Mappings/MAP_Mapping1.xml"/>
+      <param value="/Work Repository/Models/ModelFolder1/Model1/Global/TAB_source.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Models/ModelFolder1/Model1/Global/TAB_target.xml"/>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/DataServer1/PSC_DataServer1_C_ODI12_estfiles.xml"/>
+      <param value="/Work Repository/Models/ModelFolder1/Model1/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/Microsoft_SQL_Server/Physical Architecture/DataServer2/PSC_DataServer2_ODISTAGE_dbo.xml"/>
+      <param value="/Master Repository/Technologies/File/Logical Architecture/LSC_LSchema1.xml"/>
+      <param value="/Master Repository/Technologies/Microsoft_SQL_Server/Logical Architecture/LSC_LSchema2.xml"/>
+      <param value="/Work Repository/Models/Model2/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Languages/LANG_PIGLATIN.xml"/>
+      <param value="/Work Repository/Projects/Demo/SampleApp/Packages/Scenarios/SCEN_SCN1_Version_001.xml"/>
+      <param value="/Work Repository/Models/Model2/MOD_Model2.xml"/>
+      <param value="/Work Repository/Models/Model2/Global/TAB_cityinfo.xml"/>
+      <param value="/Master Repository/Technologies/Microsoft_SQL_Server/TECH_Microsoft_SQL_Server.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/File/TECH_File.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL_FILE.xml"/>
+      <param value="/Work Repository/Global Objects/Knowledge Modules/Integration(IKM)/KM_IKM_File_to_File__Java_.xml"/>
+      <param value="/Work Repository/Projects/Demo/Knowledge Modules/Integration(IKM)/KM_IKM_SQL_Control_Append.xml"/>
+      <param value="/Work Repository/Projects/Demo/Knowledge Modules/Loading(LKM)/KM_LKM_File_to_MSSQL__BULK_.xml"/>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/DataServer1/CONN_DataServer1.xml"/>
+      <param value="/Master Repository/Technologies/Microsoft_SQL_Server/Physical Architecture/DataServer2/CONN_DataServer2.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
