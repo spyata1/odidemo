@@ -1,0 +1,1973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="tJC6BCtNO9IqIp2QkVMrHQ==" exportKeySalt="f137dd47-05c3-4b63-b267-814ea82fa84f" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpTrt">
+		<Field name="CleanupOnError" type="java.lang.String">null</Field>
+	<Field name="CompType" type="java.lang.String">null</Field>
+	<Field name="DelegateClass" type="java.lang.String">null</Field>
+	<Field name="DelegateScript" type="java.lang.String">null</Field>
+	<Field name="ExpectedAstClass" type="java.lang.String">null</Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.84]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[247c8e38-747f-4939-9532-1c20208dc4af]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndExcludeExUnitBegin" type="java.lang.String">null</Field>
+	<Field name="IndExcludeExUnitEnd" type="java.lang.String">null</Field>
+	<Field name="IndExcludeExUnitMain" type="java.lang.String">null</Field>
+	<Field name="IndExcludeMapBegin" type="java.lang.String">null</Field>
+	<Field name="IndExcludeMapCleanup" type="java.lang.String">null</Field>
+	<Field name="IndExcludeMapEnd" type="java.lang.String">null</Field>
+	<Field name="IndGenerateLoad" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndIsHidden" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IndSuppSetBased" type="java.lang.String">null</Field>
+	<Field name="IntgType" type="java.lang.String"><![CDATA[CONTROL_APPEND]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IsConcurrent" type="java.lang.String">null</Field>
+	<Field name="IsSeeded" type="java.lang.String">null</Field>
+	<Field name="IBaseCompKm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IScBaseTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScOrigTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtDelTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtTrtTxt" type="com.sunopsis.sql.DbInt"><![CDATA[894]]></Field>
+	<Field name="KimMultiDserver" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KmDefault" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KmLang" type="java.lang.String">null</Field>
+	<Field name="KmSrcLang" type="java.lang.String">null</Field>
+	<Field name="KmSrcTechno" type="java.lang.String">null</Field>
+	<Field name="KmTechno" type="java.lang.String">null</Field>
+	<Field name="KmVersion" type="java.lang.String"><![CDATA[20]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:50.47]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LkmType" type="java.lang.String">null</Field>
+	<Field name="LChecksum" type="com.sunopsis.sql.DbInt"><![CDATA[1186990025]]></Field>
+	<Field name="LCode" type="java.lang.String">null</Field>
+	<Field name="OggJkm" type="java.lang.String">null</Field>
+	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ProcType" type="java.lang.String">null</Field>
+	<Field name="ProdAstType" type="java.lang.String">null</Field>
+	<Field name="RepGuid" type="java.lang.String">null</Field>
+	<Field name="RepVersion" type="java.lang.String">null</Field>
+	<Field name="ScriptPath" type="java.lang.String">null</Field>
+	<Field name="ScOrigTrtTag" type="java.lang.String">null</Field>
+	<Field name="Subtype" type="java.lang.String">null</Field>
+	<Field name="TrtName" type="java.lang.String"><![CDATA[IKM SQL Control Append]]></Field>
+	<Field name="TrtType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+	<Field name="VLastDate" type="java.sql.Timestamp"><![CDATA[2009-04-17 16:14:39.0]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e8f34ce6-d8fe-4391-a391-56062fbb5a9a]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[894]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[107]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[COMPONENT NAME: IKM SQL Control Append
+
+AUTHOR: Oracle
+
+
+Description :
+- Integration Knowledge Module
+- Integrates data in any ISO-92 compliant database target table in truncate / insert (append) mode.
+- Data can be controlled. Invalid data is isolated in the Error Table and can be recycled.
+
+Restrictions:
+- When working with journalized data, if the "Synchronize deletions from journal" is executed, the deleted rows on the target are committed regardless of the COMMIT option
+- The TRUNCATE option is not implemented on all RDBMs
+- The TRUNCATE option cannot work if the target table is referenced by another table (foreign key)
+- When using the RECYCLE_ERRORS option, you have to set an Update Key for your interface.
+- When using this module with a journalized source table, data are automatically filtered to not include source deletions.
+- The FLOW_CONTROL and STATIC_CONTROL options call the Check Knowledge Module to isolate invalid data (if no CKM is set, an error occurs). Both options must be set to NO in the case when an Integration Interface populates a TEMPORARY target datastore.]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="GlobalId" type="java.lang.String">null</Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[107]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Edit Command]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_TRT_TXT]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_TRT]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9f41eca0-7e25-4232-b491-065b03bac5f9]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[895]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[320]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[INSERT]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Insert new rows. ]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[bd2b328a-ee57-4ae4-8890-624ab0e64a47]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[895]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Automatically attempts to insert data into the Target Datastore of the Interface ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="GlobalId" type="java.lang.String">null</Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[User Exit help]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_UE_HELP]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_USER_EXIT]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[62e9a292-aeef-4727-a105-b4a873ea0ca3]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[896]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[321]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[60]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[COMMIT]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Post Integration Commit]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[96089bfe-5488-4568-9891-c81de8aa6baf]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[896]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Commit all data inserted in the target datastore. ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[5a0e6c4c-5d56-490c-b094-e574a721d3e7]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[897]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[FLOW_CONTROL]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Activate Flow control]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[561b7af5-6eaa-4807-b059-f75bfab9fedd]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[897]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option if you wish to perform flow control.]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3bded4f1-3b6e-4280-bdcf-bbe154effb82]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[898]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[323]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[RECYCLE_ERRORS]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Recycle previous errors ]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b30b51f8-8f4b-49cd-a1eb-43157ddccf7e]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[898]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option to recycle data rejected by flow control in a previous execution of this interface.]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[cbe86757-cd40-4ba4-8b81-e0e0bcb93292]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[899]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[324]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[140]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[STATIC_CONTROL]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Post Integration Control]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3ec5a158-3985-44dd-b019-2fcfaa2972d3]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[899]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option to control the target table after having inserted or updated target data. ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[33229be7-61a2-40c1-a36c-203254f8ff30]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[900]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[325]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[TRUNCATE]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Truncate the target datastore.]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[5f847001-ecec-4b5d-9e53-47ea183523a9]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[900]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option if you wish to truncate the target datastore. ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[01d857a9-1f2f-472f-a471-6df256fd2d2c]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[901]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[326]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[160]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[DELETE_ALL]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Delete all rows.]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[fcd0e13b-7dc9-451f-a7a0-94c6295b338b]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[901]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option if you wish to delete all the rows of the target datastore. ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[41f50f88-5618-46aa-963c-67321ab585c4]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[902]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[327]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[170]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[CREATE_TARG_TABLE]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Create the target table.]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f207cb6d-6f95-4b0d-a458-2a28fc7df7e1]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[902]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Check this option if you wish to create the target table ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUserExit">
+		<Field name="ExprITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[c4b79163-dff4-45e1-90e7-2a30a64f41ef]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="ITxtUeHelp" type="com.sunopsis.sql.DbInt"><![CDATA[903]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[328]]></Field>
+	<Field name="IUserExitGroup" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Position" type="com.sunopsis.sql.DbInt"><![CDATA[290]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="Subtypes" type="java.lang.String">null</Field>
+	<Field name="UeName" type="java.lang.String"><![CDATA[DELETE_TEMPORARY_OBJECTS]]></Field>
+	<Field name="UeSdesc" type="java.lang.String"><![CDATA[Delete temp objects post int]]></Field>
+	<Field name="UeType" type="java.lang.String"><![CDATA[C]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[457f1adb-3990-413e-ba78-eedefeb2ef29]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[903]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[111]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[Set this option to NO if you wish to retain temporary objects (tables, files and scripts) after integration.
+Useful for debugging.]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[904]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a6113bb3-670e-4c20-afe3-61a9a16c81c1]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[275]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[110]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Commit transaction]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[1efb491d-a4f5-4dd2-969d-1b9af3fad559]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[904]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[/* commit */]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="GlobalId" type="java.lang.String">null</Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Target Technology]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[DEF_I_TXT]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_LINE_TRT]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[905]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[29ce9179-7046-4188-ac11-5f523db83e25]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[276]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Cleanup journalized table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[02ddb887-f785-4f58-8f77-df7874b001e3]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[905]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<% if ("C".equals(odiRef.getJrnInfo( "JRN_METHOD"))) { %>
+/* Consistant journalization detected. */
+/* Lock should be done by a specific step in a package */
+<% } else { %>
+delete from	<%=odiRef.getTable("L","JRN_NAME","A")%>
+where	JRN_CONSUMED = '1'
+<%=odiRef.getJrnFilter()%>
+<% } %>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[906]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[17acef6f-4faf-4099-acf6-61f804597887]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[277]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.853]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Post-integration control]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e3f84c38-32ab-400d-acb6-0d9cb9e78d6e]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[906]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%@ INCLUDE CKM_STATIC%>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[907]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4d3deb31-09fe-48ab-83e4-ff4a015ca771]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[278]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="MapTaskType" type="java.lang.String"><![CDATA[MC]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[140]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Drop flow table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[2418b6b4-b008-4dce-8adf-5b10dc3e2901]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[907]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%if ( odiRef.getOption("DELETE_TEMPORARY_OBJECTS").equals("1") ) { %> 
+drop table <%=odiRef.getTable("L", "INT_NAME", "A")%>
+<% } %>
+]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[908]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3661ec08-0f54-4c12-b18c-52cde10202ae]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[279]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Create target table ]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3a3ec3bb-b9e2-4c93-a5e0-0d4632cc9d84]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[908]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[create table <%=odiRef.getTable("L", "TARG_NAME", "A")%>
+(
+	<%=odiRef.getTargetColList("", "[COL_NAME]\t[DEST_CRE_DT] " + odiRef.getInfo("DEST_DDL_NULL"), ",\n\t", "")%>
+)]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[909]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[402ee5b0-a7a1-4783-851e-707ebe39e9d9]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[280]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.857]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[20]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Drop flow table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[58399e52-01ea-4d9f-b430-3e697c3808eb]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[909]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[drop table <%=odiRef.getTable("L", "INT_NAME", "A")%>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[910]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ba6a4756-cd9b-4d9c-8766-4228e94c63bc]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[281]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[5]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Create flow table I$]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ac202918-2552-4f19-9d93-5ab366f170cd]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[910]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[create table <%=odiRef.getTable("L", "INT_NAME", "A")%>
+(
+	<%=odiRef.getColList("", "[COL_NAME]\t[DEST_WRI_DT] " + odiRef.getInfo("DEST_DDL_NULL"), ",\n\t", "", "INS or UPD")%>
+)]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[911]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[cd7ede60-f863-4686-b55d-66fdb13950bf]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[282]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[40]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Lock journalized table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[0ac960bb-3fc9-4c94-b874-300b582eb1e8]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[911]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%if ("C".equals(odiRef.getJrnInfo("JRN_METHOD"))){%>
+/* Consistant journalization detected. */
+/* Lock should be done by a specific step in a package */
+<% } else { %>
+update	<%=odiRef.getTable( "L" , "JRN_NAME" , "A" )%>
+set	JRN_CONSUMED = '1'
+where	(1=1)
+<%=odiRef.getJrnFilter()%>
+<% } %>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[912]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[d6645ec3-35c7-4bcb-97b3-f70422cdbced]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[283]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[50]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Insert flow into I$ table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[1be30bca-0e37-48d4-8b4c-0ca2550fa9fe]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[912]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[insert into	<%=odiRef.getTable("L","INT_NAME","A")%>
+(
+	<%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "","((INS and !TRG) and REW)")%>
+)
+<%for (int i=odiRef.getDataSetMin(); i <= odiRef.getDataSetMax(); i++){%>
+<%=odiRef.getDataSet(i, "Operator")%>
+select 	<%=odiRef.getPop("DISTINCT_ROWS")%>
+	<%=odiRef.getColList(i,"", "[EXPRESSION]", ",\n\t", "", "((INS and !TRG) and REW)")%>
+from	<%=odiRef.getFrom(i)%>
+where	<% if (odiRef.getDataSet(i, "HAS_JRN").equals("1")) { %>
+	JRN_FLAG <> 'D'
+	<%} else {%>
+	(1=1)
+	<% } %>
+<%=odiRef.getJoin(i)%>
+<%=odiRef.getFilter(i)%>
+<%=odiRef.getJrnFilter(i)%>
+<%=odiRef.getGrpBy(i)%>
+<%=odiRef.getHaving(i)%>
+<%}%>
+]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[913]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e23c2e43-2a2d-42b3-a2f3-818da3977c90]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[284]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.86]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[60]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Recycle previous errors]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[59db09a3-f0e6-40fd-b5f2-76ee55474c1e]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[913]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%if ( odiRef.getOption("FLOW_CONTROL").equals("1") ) { %> 
+insert into <%=odiRef.getTable("L","INT_NAME","W")%>
+(
+	<%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "INS and REW")%>
+)
+select	DISTINCT <%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "INS  and REW")%>
+from	<%=odiRef.getTable("L","ERR_NAME", "W")%> <%=odiRef.getInfo("DEST_TAB_ALIAS_WORD")%> E
+where	not exists	(
+		select	'X'
+		from	<%=odiRef.getTable("L","INT_NAME","W")%> <%=odiRef.getInfo("DEST_TAB_ALIAS_WORD")%> T
+		where	<%=odiRef.getColList("", "T.[COL_NAME]\t= E.[COL_NAME]", "\n\t\tand\t", "", "UK")%>
+		)
+and 	E.ODI_ORIGIN	= '<%=odiRef.getInfo("CT_ORIGIN")%>'
+and 	E.ODI_ERR_TYPE	= '<%=odiRef.getInfo("CT_ERR_TYPE")%>'
+<% } %>
+]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[914]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.863]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[44d85526-8300-4c4f-a644-ae53893d16ee]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[285]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.863]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[70]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Flow control]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[8592762f-d4c3-4e48-924c-b5a33aaa0651]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[914]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%@ INCLUDE CKM_FLOW DELETE_ERRORS%>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[915]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.863]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a54a8092-3f35-4b40-9b94-02698444d016]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[286]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.863]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[80]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Truncate target table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[2b361290-e892-4131-9f64-17f13351aacf]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[915]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[truncate table <%=odiRef.getTable("L","TARG_NAME","A")%>
+]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[916]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.867]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[d77e33e3-18cd-4431-bad6-c6dbcacb7502]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String"><![CDATA[D]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[287]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String">null</Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.867]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[90]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Delete target table]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[75ab4577-029b-440e-8cc2-6f0529a0d68d]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[916]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[delete from <%=odiRef.getTable("L","TARG_NAME","A")%>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ColLanguage" type="java.lang.String">null</Field>
+	<Field name="ColLschemaName" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String">null</Field>
+	<Field name="DefConnectId" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[917]]></Field>
+	<Field name="DefLanguage" type="java.lang.String">null</Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String">null</Field>
+	<Field name="ExeChannel" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.867]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f36c2be7-4d0b-4b04-99e6-efe3cead26ad]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[288]]></Field>
+	<Field name="IRefLineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IRefTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[150]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmInstall" type="java.lang.String">null</Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUninstall" type="java.lang.String">null</Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-10 23:04:49.867]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LineType" type="java.lang.String">null</Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="MapTaskType" type="java.lang.String">null</Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[100]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Insert new rows]]></Field>
+	<Field name="SupportedSubtypes" type="java.lang.String">null</Field>
+	<Field name="VariableDefs" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+ <Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[022f9cc0-b7a4-4bab-9a3c-1cd8d27662e9]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[917]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<%hasSetOperator = !(odiRef.getDataSetMin() == odiRef.getDataSetMax());
+  flowControl    = odiRef.getOption("FLOW_CONTROL").equals("1");
+  if ( flowControl )  { %> 
+insert into	<%=odiRef.getTable("L","TARG_NAME","A")%> 
+( 
+	<%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "((INS and !TRG) and REW)")%> 
+	<%=odiRef.getColList(",", "[COL_NAME]", ",\n\t", "", "((INS and TRG) and REW)")%> 
+) 
+select	<%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "((INS and !TRG) and REW)")%> 
+	<%=odiRef.getColList(",", "[EXPRESSION]", ",\n\t", "", "((INS and TRG) and REW)")%> 
+from	<%=odiRef.getTable("L","INT_NAME","A")%> 
+<% } else { %> 
+insert into	<%=odiRef.getTable("L","TARG_NAME","A")%> 
+( 
+<% if (hasSetOperator) { %>
+	<%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "((INS and !TRG) and REW)")%> 
+	<%=odiRef.getColList(",", "[COL_NAME]", ",\n\t", "", "((INS and TRG) and REW)")%> 
+<% } else { %>
+    <%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "(INS and REW)")%> 
+<% } %>
+
+) 
+
+<% if (hasSetOperator) { /* for set operators, use target expressions here (on top of any set operators) */ %>
+select
+    <%=odiRef.getColList("", "[COL_NAME]", ",\n\t", "", "((INS and !TRG) and REW)")%>   
+  <%=odiRef.getColList(",", "[EXPRESSION]", ",\n\t", "", "((INS and TRG) and REW)")%> 
+FROM (	
+<% } %>
+<%for (int i=odiRef.getDataSetMin(); i <= odiRef.getDataSetMax(); i++){%>
+<%=odiRef.getDataSet(i, "Operator")%>
+select 	<%=odiRef.getPop("DISTINCT_ROWS")%>
+<% if (hasSetOperator) { /* for set operators, insert only source or staging expressions */ %>
+	<%=odiRef.getColList(i,"", "[EXPRESSION] [ALIAS_SEP] [COL_NAME]", ",\n\t", "", "((INS and !TRG) and REW)")%> 
+        <% } else { /* for not set operators, insert any source/staging or target expressions */ %>
+    <%=odiRef.getColList(i,"", "[EXPRESSION] [ALIAS_SEP] [COL_NAME]", ",\n\t", "", "(INS and REW)")%>
+<% } %>
+from	<%=odiRef.getFrom(i)%>
+where	<% if (odiRef.getDataSet(i, "HAS_JRN").equals("1")) { %>
+	JRN_FLAG <> 'D'	<%} else {%>	(1=1)	<% } %>
+<%=odiRef.getJoin(i)%>
+<%=odiRef.getFilter(i)%>
+<%=odiRef.getJrnFilter(i)%>
+<%=odiRef.getGrpBy(i)%>
+<%=odiRef.getHaving(i)%>
+<%}%>
+<% if (hasSetOperator) { %>
+) <%=odiRef.getInfo("DEST_TAB_ALIAS_WORD")%> ODI_GET_FROM
+<% } %>
+<% } %>
+]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[616472ab-5a91-4847-b574-5d896215c357]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[275]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[321]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[7cf80a7f-41c5-48c3-aeed-e66d1c2c07e8]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[277]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[324]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[3ad0ba89-39a2-444e-9aa7-c551502ebdcd]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[278]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[5b43bb91-8bc9-4792-b972-48de377f4103]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[279]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[327]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[77ba53fc-2267-4bd9-bd9d-0fc616e12daf]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[280]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[ffc55d4e-ab41-4333-a74a-ab8f15d7416c]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[281]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[1a3a50d9-e0f4-476b-b8a6-08062a427736]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[283]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[c3b1b768-ab45-47f5-8d0f-449866d627e7]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[284]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[323]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[4e8e7b79-3422-47d7-898c-6dea313efdf5]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[285]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[5496d9a6-37b4-42e0-97fc-1a60717405be]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[286]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[325]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[165bcb7d-be00-4089-9207-90b5fd1117c6]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[287]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[326]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrtUe">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[47b4f257-a6a8-4d60-936d-a0ae99bfcfba]]></Field>
+	<Field name="ILineTrt" type="com.sunopsis.sql.DbInt"><![CDATA[288]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[238]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[320]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PROJECT.1]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[c9c78b51-af8b-40d3-8e62-154f38625715]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.894]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[e8f34ce6-d8fe-4391-a391-56062fbb5a9a]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TRT.150]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[247c8e38-747f-4939-9532-1c20208dc4af]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.895]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[bd2b328a-ee57-4ae4-8890-624ab0e64a47]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.896]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[96089bfe-5488-4568-9891-c81de8aa6baf]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_ORIGTXT.111]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String">null</Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.897]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[561b7af5-6eaa-4807-b059-f75bfab9fedd]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.898]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[b30b51f8-8f4b-49cd-a1eb-43157ddccf7e]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.899]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[3ec5a158-3985-44dd-b019-2fcfaa2972d3]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.900]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[5f847001-ecec-4b5d-9e53-47ea183523a9]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.901]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[fcd0e13b-7dc9-451f-a7a0-94c6295b338b]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.902]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[f207cb6d-6f95-4b0d-a458-2a28fc7df7e1]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.903]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[457f1adb-3990-413e-ba78-eedefeb2ef29]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.904]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[1efb491d-a4f5-4dd2-969d-1b9af3fad559]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.905]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[02ddb887-f785-4f58-8f77-df7874b001e3]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_ORIGTXT.102]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String">null</Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.906]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[e3f84c38-32ab-400d-acb6-0d9cb9e78d6e]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.907]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[2418b6b4-b008-4dce-8adf-5b10dc3e2901]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.908]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[3a3ec3bb-b9e2-4c93-a5e0-0d4632cc9d84]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.909]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[58399e52-01ea-4d9f-b430-3e697c3808eb]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.910]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[ac202918-2552-4f19-9d93-5ab366f170cd]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.911]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[0ac960bb-3fc9-4c94-b874-300b582eb1e8]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.912]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[1be30bca-0e37-48d4-8b4c-0ca2550fa9fe]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.913]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[59db09a3-f0e6-40fd-b5f2-76ee55474c1e]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.914]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[8592762f-d4c3-4e48-924c-b5a33aaa0651]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.915]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[2b361290-e892-4131-9f64-17f13351aacf]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.916]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[75ab4577-029b-440e-8cc2-6f0529a0d68d]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TXTHEADER.917]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[022f9cc0-b7a4-4bab-9a3c-1cd8d27662e9]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.321]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[62e9a292-aeef-4727-a105-b4a873ea0ca3]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.COMMIT]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.275]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[a6113bb3-670e-4c20-afe3-61a9a16c81c1]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Commit transaction]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.18]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.324]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[cbe86757-cd40-4ba4-8b81-e0e0bcb93292]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.STATIC_CONTROL]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.14]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.277]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[17acef6f-4faf-4099-acf6-61f804597887]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Post-integration control]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.24]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.322]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[5a0e6c4c-5d56-490c-b094-e574a721d3e7]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.FLOW_CONTROL]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.12]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.278]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[4d3deb31-09fe-48ab-83e4-ff4a015ca771]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Drop flow table]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.15]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.327]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[41f50f88-5618-46aa-963c-67321ab585c4]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.CREATE_TARG_TABLE]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.17]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.279]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[3661ec08-0f54-4c12-b18c-52cde10202ae]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Create target table ]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.20]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.280]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[402ee5b0-a7a1-4783-851e-707ebe39e9d9]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Drop flow table]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.15]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.281]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[ba6a4756-cd9b-4d9c-8766-4228e94c63bc]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Create flow table I$]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.20]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.283]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[d6645ec3-35c7-4bcb-97b3-f70422cdbced]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Insert flow into I$ table]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.25]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.323]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[3bded4f1-3b6e-4280-bdcf-bbe154effb82]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.RECYCLE_ERRORS]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.14]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.284]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[e23c2e43-2a2d-42b3-a2f3-818da3977c90]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Recycle previous errors]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.23]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.285]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[44d85526-8300-4c4f-a644-ae53893d16ee]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Flow control]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.12]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.325]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[33229be7-61a2-40c1-a36c-203254f8ff30]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.TRUNCATE]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.8]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.286]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[a54a8092-3f35-4b40-9b94-02698444d016]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Truncate target table]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.21]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.326]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[01d857a9-1f2f-472f-a471-6df256fd2d2c]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.DELETE_ALL]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.10]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.287]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[d77e33e3-18cd-4431-bad6-c6dbcacb7502]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Delete target table]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.19]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_USEREXIT.320]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[9f41eca0-7e25-4232-b491-065b03bac5f9]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.INSERT]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_USEREXIT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LINETRT.288]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[f36c2be7-4d0b-4b04-99e6-efe3cead26ad]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Demo.IKM SQL Control Append.Insert new rows]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_TRT.SNP_LINETRT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[4.22.15]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[24]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[36]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[24]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.07]]></Field>
+</Object>
+</SunopsisExport>
